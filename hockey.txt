@@ -8,6 +8,8 @@ switch sides
 goalkeeper
 shoot or pass
 
-adding some bad code
+delete bad code
+added good stuff
+
 
 
